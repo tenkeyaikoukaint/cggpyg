@@ -1,11 +1,11 @@
 # cggpyg
 python-pygame graphic character displaying framework
 
-##require
+## require
 
 python(2 or 3), pygame
 
-##load module
+## load module
 
 from syslogic import CGGPYG
 cgg=CGGPYG("")
@@ -18,6 +18,10 @@ cgg=CGGPYG("")
 from syslcd4l import CGGPYG
 cgg=CGGPYG()
 (LCD screen)
+
+## methods
+
+def put(chrname,x,y)
 
 put character on 20*20 screen
 chrnames:
