@@ -2,7 +2,7 @@
 python-pygame graphic character displaying framework
 
 ## why the repository moved?
-I lost previous mail address and couldn't access previous repository.
+Inadvertently I lost previous mail address and unable to access previous repository.
 
 ## require
 
