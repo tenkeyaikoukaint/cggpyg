@@ -1,6 +1,9 @@
 # cggpyg
 python-pygame graphic character displaying framework
 
+## why the repository moved?
+I lost previous mail address and couldn't access previous repository.
+
 ## require
 
 python(2 or 3), pygame
