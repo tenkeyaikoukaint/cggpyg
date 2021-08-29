@@ -1,6 +1,9 @@
 # cggpyg
 python-pygame graphic character displaying framework
 
+## 100% pure Python code
+easy to understand, modify
+
 ## why the repository moved to here?
 Inadvertently I lost previous mail address and unable to access previous repository.
 
