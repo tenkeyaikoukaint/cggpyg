@@ -40,6 +40,9 @@ class CGGPYG:
     def line(self,x1,y1,x2,y2):
         pygame.draw.line(self.cvs,self.color,(x1,y1),(x2,y2))
 
+    def show(self):
+        pygame.display.flip()
+
     def cls(self):
         rect=(0,0,640,480)
         if self.scrmode=="marine":
