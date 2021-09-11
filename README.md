@@ -4,7 +4,7 @@ Python-Pygame 8bit-like text (and graphic) character displaying library
 ## 100% pure Python code
 easy to understand, modify
 
-## why the repository moved to here?
+## why the repository moved here?
 Inadvertently I lost previous mail address and became unable to access previous repository.
 
 ## requirement
