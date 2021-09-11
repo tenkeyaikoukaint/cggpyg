@@ -11,7 +11,9 @@ Inadvertently I lost previous mail address and became unable to access previous 
 
 python(2 or 3), pygame
 
-## to load module
+## how to load module
+
+In Python script:
 
 from syslogic import CGGPYG<br />
 cgg=CGGPYG("")<br />
