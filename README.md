@@ -1,5 +1,5 @@
 # cggpyg
-python-pygame graphic character displaying framework
+Python-Pygame graphic character displaying library
 
 ## 100% pure Python code
 easy to understand, modify
@@ -7,11 +7,11 @@ easy to understand, modify
 ## why the repository moved to here?
 Inadvertently I lost previous mail address and become unable to access previous repository.
 
-## require
+## requirement
 
 python(2 or 3), pygame
 
-## load module
+## to load module
 
 from syslogic import CGGPYG<br />
 cgg=CGGPYG("")<br />
@@ -34,7 +34,7 @@ chrnames:<br />
 "a","b".."z"<br />
 "0","1".."9"<br />
 "circle","block,"brick","se","ne","sw","nw"(triangles)<br />
-"slash","backslash"
+"slash","backslash", and more
 
 def puth(chrname,x,y)
 
