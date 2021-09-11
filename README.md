@@ -5,7 +5,7 @@ Python-Pygame 8bit-like text (and graphic) character displaying library
 easy to understand, modify
 
 ## why the repository moved to here?
-Inadvertently I lost previous mail address and become unable to access previous repository.
+Inadvertently I lost previous mail address and became unable to access previous repository.
 
 ## requirement
 
