@@ -111,8 +111,8 @@ class jantris(cggframe):
     def routine(self):
 
         self.gv.ct=self.gv.ct+1
-        if self.gv.sc<100:
-            gap=21-int(self.gv.sc/10)
+        if self.gv.sc<200:
+            gap=16-int(self.gv.sc/40)
         else:
             gap=10
         if self.gv.ct>=gap:
