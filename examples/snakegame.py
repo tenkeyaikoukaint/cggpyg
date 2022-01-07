@@ -87,7 +87,7 @@ class linetest13(cggframe):
             self.cgg.puth("sharp",0,i)
             self.cgg.puth("sharp",39,i)
         self.cgg.setcolor(7)
-        self.cgg.printc("score:"+str(self.sc)+"",0,20)
+        self.cgg.printc("length:"+str(self.length)+"",0,20)
         self.cgg.setcolor(4)
         for i in range(1,self.length):
             self.cgg.puth("circle",self.x[i],self.y[i])
