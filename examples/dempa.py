@@ -6,7 +6,7 @@ from syslogic import CGGPYG
 class Dempa():
 
     def __init__(self):
-        self.cgg=CGGPYG()
+        self.cgg=CGGPYG("")
         self.tim="noon"
         self.counter=0
         self.sunct=0
