@@ -2,16 +2,16 @@
 Python-Pygame 8bit-like text (and graphic) character displaying library
 
 ## 100% pure Python code
-easy to understand, modify
+Easy to understand, modify
 
-## why the repository moved here?
+## Why the repository moved here?
 Inadvertently I lost previous mail address and became unable to access previous repository.
 
-## requirement
+## Requirement
 
-python(2 or 3), pygame
+Python(2 or 3), Pygame
 
-## how to load module
+## How to load module
 
 In Python script:
 
@@ -27,7 +27,7 @@ from syslcd4l import CGGPYG<br />
 cgg=CGGPYG()<br />
 (LCD screen)
 
-## methods
+## Methods
 
 def put(chrname,x,y)
 
