@@ -31,7 +31,7 @@ cgg=CGGPYG()<br />
 
 def put(chrname,x,y)
 
-put character on 20*20 screen<br />
+To put character on 20*20 screen<br />
 chrnames:<br />
 "a","b".."z"<br />
 "0","1".."9"<br />
@@ -40,7 +40,7 @@ chrnames:<br />
 
 def puth(chrname,x,y)
 
-put character on 40*20 screen
+To put character on 40*20 screen
 
 def setcolor(cc)
 
@@ -48,5 +48,6 @@ cc:<br />
 0:black 1:blue 2:red 3:magenta 4:green 5:cyan 6:yellow 7:white
 
 def cls()
+
 
 clear screen
